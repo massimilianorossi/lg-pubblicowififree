@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Lg pubblico wi-fi free"
+settings_project_name = "Linee guida erogazione servizio pubblico wi-fi free"
 settings_copyright_copyleft = 'AGID'
 settings_editor_name = 'AGID'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Lg pubblico wi-fi free'
-settings_file_name = 'Lg pubblico wi-fi free'
+settings_basename = 'Linee guida erogazione servizio pubblico wi-fi free'
+settings_file_name = 'Linee guida erogazione servizio pubblico wi-fi free'
 
 # -- No need to change below here
 
