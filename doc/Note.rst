@@ -1,5 +1,8 @@
+Note
+======
+
 .. [1]
-   **Le disposizioni del presente Codice si applicano a) alle pubbliche
+   Le disposizioni del presente Codice si applicano a) alle pubbliche
    amministrazioni di cui all’articolo 1, comma 2, del decreto
    legislativo 30 marzo 2001, n. 165, nel rispetto del riparto di
    competenza di cui all’articolo 117 della Costituzione, ivi comprese
@@ -17,7 +20,7 @@
    domicilio digitale e le comunicazioni elettroniche di cui
    all’articolo 3-bis e al Capo IV, l’identità digitale di cui agli
    articoli 3-bis e 64 si applicano anche ai privati, ove non
-   diversamente previsto.**
+   diversamente previsto.
 
 .. [2]
    Frame non cifrati
