@@ -3,7 +3,7 @@ Applicabilità e destinatari del documento
 
 Come previsto dall’art.8-bis del Dgls 82 del 2005 e s.m.i.,- Codice
 dell’Amministrazione Digitale- *“I soggetti dell’articolo 2, comma
-2*\  [1]_\ *, favoriscono, in linea con gli obiettivi dell’Agenda
+2 `[1] <https://lg-pubblicowififree.readthedocs.io/it/latest/doc/Note.html#note>`_, favoriscono, in linea con gli obiettivi dell’Agenda
 digitale europea, la disponibilità di connettività alla rete Internet
 presso gli uffici pubblici e altri luoghi pubblici, in particolare nei
 settori scolastico, sanitario e di interesse turistico, anche prevedendo
