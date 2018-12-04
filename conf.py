@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee guida per l'erogazione del servizio pubblico wi-fi free"
-settings_copyright_copyleft = 'Agenzia per l'Italia Digitale'
-settings_editor_name = 'Agenzia per l'Italia Digitale'
+settings_project_name = "Lg pubblico wi-fi free"
+settings_copyright_copyleft = 'AGID'
+settings_editor_name = 'AGID'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Linee guida per l'erogazione del servizio pubblico wi-fi free'
-settings_file_name = 'Linee guida per l'erogazione del servizio pubblico wi-fi free'
+settings_basename = 'Lg pubblico wi-fi free'
+settings_file_name = 'Lg pubblico wi-fi free'
 
 # -- No need to change below here
 
