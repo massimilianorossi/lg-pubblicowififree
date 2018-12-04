@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Titolo del documento"
-settings_copyright_copyleft = 'AgID - Team Digitale'
-settings_editor_name = 'AgID - Team Digitale'
+settings_project_name = "Linee guida per l'erogazione del servizio pubblico wi-fi free"
+settings_copyright_copyleft = 'Agenzia per l'Italia Digitale'
+settings_editor_name = 'Agenzia per l'Italia Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'titolo-documento'
-settings_file_name = 'titolo-documento'
+settings_basename = 'Linee guida per l'erogazione del servizio pubblico wi-fi free'
+settings_file_name = 'Linee guida per l'erogazione del servizio pubblico wi-fi free'
 
 # -- No need to change below here
 
