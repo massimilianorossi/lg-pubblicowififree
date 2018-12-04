@@ -280,3 +280,9 @@ garantire:
 Con riguardo all’autenticazione ci possiamo riferire all’identificazione
 certa degli utenti nella rete, degli host, delle applicazioni, dei
 servizi e delle risorse [4]_
+
+
+.. note::
+.. [2] Frame non cifrati
+.. [3] Questo tipo di gestione amministra correttamente non solo gli accessi ma anche i profili di servizio. L”802.1x si basa sul protocollo EAP (Extensible Authentication Protocol), definito dall”IETF, il cui ruolo è di trasportare delle informazioni di identificazione degli utenti. Il funzionamento del protocollo EAP è basato sull’utilizzo di un controllore di accesso, (l’authenticator), che stabilisce l’accesso alla rete per un utente (il supplicant).
+.. [4] Le tecnologie standard che permettono questo includono alcuni protocolli di autenticazione come RADIUS (Remote Authentication Dial-In Users Service), Kerberos. Inoltre nuove tecnologie che si fondano su Certificati Digitali, Smart Card e Token si stanno imponendo sempre più nelle soluzioni per la definizione e verifica dell’identità.
