@@ -1,6 +1,28 @@
-####################
+################################################################
 Linee guida per l'erogazione del servizio pubblico wi-fi free
-####################
+################################################################
+
+.. admonition:: **CONSULTAZIONE PUBBLICA**
+   
+   La consultazione pubblica relativa al presente documento.....
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Premessa.rst
+   Applicabilità-e-destinatari.rst
+   Introduzione.rst
+   Cosa-è-il-wifi.rst
+   Framework-normativo-gestione-servizio-wifi.rst
+   Maggiori-esperienze-wifi-pa.rst
+   Criteri-implementazione-servizio-pa.rst
+   Possibili-evoluzioni-tecnologiche.rst
+   Federabilità-servizi-wifi.rst
+   Conclusioni.rst
+   Riferimenti-fonti.rst
+   Glossario.rst
+
 
 Negli ultimi anni si è assistito ad un processo evolutivo nell’ambito
 delle tecnologie di comunicazione in mobilità e/o senza fili che ha
@@ -55,28 +77,6 @@ Nel seguito del presente documento verranno esposte le modalità
 attraverso le quali potrà essere resa disponibile la banda destinata al
 wireless gratuito da parte delle Pubbliche Amministrazioni. nonché i
 criteri di sicurezza da adottare in tale ambito.
-
-.. admonition:: **CONSULTAZIONE PUBBLICA**
-   
-   La consultazione pubblica relativa al presente documento.....
-
-
-.. toctree::
-   :maxdepth: 2
-   
-   Premessa.rst
-   Applicabilità-e-destinatari.rst
-   Introduzione.rst
-   Cosa-è-il-wifi.rst
-   Framework-normativo-gestione-servizio-wifi.rst
-   Maggiori-esperienze-wifi-pa.rst
-   Criteri-implementazione-servizio-pa.rst
-   Possibili-evoluzioni-tecnologiche.rst
-   Federabilità-servizi-wifi.rst
-   Conclusioni.rst
-   Riferimenti-fonti.rst
-   Glossario.rst
-
 
    
 .. note::
