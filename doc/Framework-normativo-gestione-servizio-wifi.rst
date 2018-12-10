@@ -272,3 +272,17 @@ abilitati a tale protocollo sebbene le reti degli operatori lo siano. Si
 rende necessario quindi supplire all’esaurimento degli indirizzi e alla
 difficoltà di utilizzo di IPv6, implementando meccanismi di
 mascheramento tra indirizzi privati e pubblici [10]_.
+
+
+.. note::
+.. [5] European Union Agency for Network and Information Security.
+
+.. [6] Fonte Altalex, 24 febbraio 2017, Articolo di Giulia Tebaldi.
+
+.. [7] Documento elaborato dalla Commissione per i diritti e i doveri relativi ad Internet a seguito della consultazione pubblica, delle audizioni svolte e della riunione della stessa Commissione del 14 luglio 2015.
+
+.. [8] La definizione di Identità Digitale data da SPID è la “rappresentazione informatica della corrispondenza biunivoca tra un utente ed i suoi attributi identificativi, verificata attraverso l’insieme dei dati raccolti e registrati in forma digitale”.
+
+.. [9] D.lgs. 7 marzo 2005, n.82, come modificato dall’art. 17-ter del decreto legge n. 69 del 2013.
+
+.. [10] Comunemente questa tecnica appena descritta è chiamata Network Address Resolution.
