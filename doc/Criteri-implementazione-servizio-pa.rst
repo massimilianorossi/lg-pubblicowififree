@@ -329,9 +329,9 @@ La figura di seguito riporta un’ipotesi di architettura con l’ambito
 Wi-Fi aggiuntivo realizzato attraverso una nuova VRF [19]_ sugli
 apparati degli operatori.
 
-|image3|
-
-**Figura -Definizione Ambito Wi-Fi SPC**
+.. image:: Definizione-Ambito-WiFi-SPC.png
+  :scale: 50 %
+  :alt: Definizione-Ambito-WiFi-SPC
 
 Per quanto riguarda l’implementazione del servizio sulla rete interna o
 sulla rete geografica, l’Amministrazione deve erogare il servizio Wi-Fi,
@@ -392,4 +392,7 @@ alle informazioni di dettaglio presenti all’interno del sistema stesso.
 
 .. [17] Al primo accesso l’utente si collega ai server (Radius o Network Access Server) che devono verificare l’identità, e associare le credenziali all’utente. La condizione vincolante all’autorizzazione all’accesso è che l’identità dell’utente sia verificabile: di fatti è possibile utilizzare modalità indirette come la registrazione al servizio attraverso la SIM del cellulare o numero di carta di credito (in particolare per gli stranieri) e/o il servizio SPID per gli utenti italiani. Il numero dei dispositivi associabili all’utenza dipende dai vincoli posti dal Service Provider.
 
+.. [18] Transport Layer Security (TLS) è una tecnologia che la connessione ad una rete sia sicura
+
+.. [19] È una tecnica di routing per la segregazione virtuale delle risorse di rete
 
