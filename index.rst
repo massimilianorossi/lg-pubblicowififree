@@ -63,7 +63,7 @@ criteri di sicurezza da adottare in tale ambito.
 
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
    
    introduzione.rst
    cosa-e-il-wifi.rst
@@ -74,6 +74,12 @@ criteri di sicurezza da adottare in tale ambito.
    federabilita-servizi-wifi.rst
    conclusioni.rst
    riferimenti-fonti.rst
+
+.. toctree::
+   :name: glossary_toc
+   :hidden:
+
+   glossario
 
 .. [1] Le disposizioni del presente Codice si applicano a) alle pubbliche
    amministrazioni di cui all’articolo 1, comma 2, del decreto legislativo 30
