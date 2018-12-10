@@ -57,7 +57,7 @@ attraverso le quali potrà essere resa disponibile la banda destinata al
 wireless gratuito da parte delle Pubbliche Amministrazioni. nonché i
 criteri di sicurezza da adottare in tale ambito.
 
-.. admonition:: **CONSULTAZIONE PUBBLICA**
+.. admonition:: consultation
    
    La consultazione pubblica relativa al presente documento.....
 
