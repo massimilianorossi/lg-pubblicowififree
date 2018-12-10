@@ -43,8 +43,9 @@ User
 
 È l’utente finale del servizio, cittadino e/o turista, che accede al
 servizio WI-FI per l’accesso ai servizi digitali.
+
 Architettura del servizio per le Reti della PA
-----------------------------------------------
+-------------------------------------------------
 
 Questo paragrafo intende fornire una panoramica delle possibili
 architetture per le Pubbliche Amministrazioni che debbano erogare il
