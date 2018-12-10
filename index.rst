@@ -79,7 +79,7 @@ criteri di sicurezza da adottare in tale ambito.
    :name: glossary_toc
    :hidden:
 
-   glossario
+   glossario.rst
 
 .. [1] Le disposizioni del presente Codice si applicano a) alle pubbliche
    amministrazioni di cui all’articolo 1, comma 2, del decreto legislativo 30
