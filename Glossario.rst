@@ -11,7 +11,7 @@ Glossario
       Standard industrial per trasmissione dati a corto raggio
 
    CAD
-      Codice dell’Amministrazione Digitale
+      Codice dell'Amministrazione Digitale
 
    Captive Portal	
       Il CP è una pagina web di registrazione che viene mostrata agli utenti di una rete di telecomunicazioni, dopo che essi abbiamo effettuato una richiesta HTTP
@@ -41,7 +41,7 @@ Glossario
       Information Technology
  
    Kerberos
-      Protocollo di rete atto all’autenticazione su rete informatica basato su crittografia simmetrica
+      Protocollo di rete atto all'autenticazione su rete informatica basato su crittografia simmetrica
 
    LTE
       Long Term Evolution
@@ -68,7 +68,7 @@ Glossario
       Remote Authentication Dial In User Service
 
    SIM
-      Subscriber Identity Module, modulo relativo all’identità dell’abbonato
+      Subscriber Identity Module, modulo relativo all'identità dell'abbonato
 
    SMS
       Short Message Service ovvero servizio di messaggi brevi attraverso la rete cellulare
