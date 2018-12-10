@@ -382,3 +382,8 @@ Il sistema di monitoraggio fornirà uno strumento di visualizzazione
 degli AP, dal quale sarà possibile l'immediata visualizzazione dello
 stato di funzionamento degli stessi. Consentirà inoltre il collegamento
 alle informazioni di dettaglio presenti all’interno del sistema stesso.
+
+.. note::
+.. [15] http://www.consip.it/bandi-di-gara/gare-e-avvisi/gara-reti-locali-6
+
+
