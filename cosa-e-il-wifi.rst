@@ -92,7 +92,7 @@ grande velocità; l'IEEE 802.11ad (detto
 anche `WiGig <http://www.fastweb.it/web-e-digital/intel-punta-a-eliminare-i-cavi-dei-pc/>`__),
 infine, lavora sulla banda di frequenza dei 60 GHz e, pur coprendo
 distanze minori, può raggiungere la velocità di connessione di 7 gigabit
-ed è utilizzabile per le applicazioni ‘smart home' che richiedono una
+ed è utilizzabile per le applicazioni 'smart home' che richiedono una
 banda sempre più ampia e stabile.
 
 Architettura di una rete Wi-Fi

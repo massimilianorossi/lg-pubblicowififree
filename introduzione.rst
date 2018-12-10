@@ -17,7 +17,7 @@ biblioteche e gli ospedali, siano dotati di connessioni a internet fisse
 alla velocità del Gigabit al fine di poter erogare in maniera affidabile
 i servizi digitali.
 
-Il Regolamento nasce nell'ambito della Strategia del *‘Digital Single
+Il Regolamento nasce nell'ambito della Strategia del *'Digital Single
 Market'* della DG Connect della Commissione Europea e ad esso vanno
 fatte riferire in ambito nazionale le previsioni dell'Art.8 bis del CAD.
 Tale articolo richiede che le PA forniscano il servizio di connettività

@@ -9,7 +9,7 @@ internet sempre disponibile. Tutto ciò è stato in larga parte favorito
 dalla disponibilità di dispositivi multicanale e dotati di adeguate
 risorse hardware nonché di piattaforme middleware modulari. La
 diffusione quindi di servizi e applicazioni ha concorso e concorre alla
-‘Crescita Digitale' del Paese in questa era tecnologica "sempre"
+'Crescita Digitale' del Paese in questa era tecnologica "sempre"
 connessa, nella quale persone e cose sono in grado di comunicare e
 scambiare informazioni in tempo reale. La necessità di connessione
 permanente richiede evidentemente la disponibilità di accesso ad
