@@ -30,9 +30,7 @@ Gli standard del Wi-Fi
 In questo paragrafo mostreremo le tappe fondamentali delle
 certificazioni dello IEEE che stabiliscono gli standard tecnologici sui
 quali i produttori realizzano i loro dispositivi Wi-Fi. Ad oggi
-gli \ `standard
-Wi-Fi <http://www.fastweb.it/internet/guida-agli-standard-wi-fi-per-la-velocita-connessione/>`__
-esistenti sono 9, anche se i più utilizzati sono 4. (QUALI?)
+gli standard Wi-Fi esistenti sono 9, anche se i più utilizzati sono 4. 
 
 +-----------------+-----------------+-----------------+-----------------+
 | Certificazione  | Velocità di     | Frequenza di    | Mezzo           |
@@ -72,7 +70,7 @@ trasmissione di dati fino a 54Mbps (sebbene mediamente si attesti
 attorno ai 22-24 Mbps). Un ulteriore avanzamento delle prestazioni si è
 avuta con la certificazione 802.11n, rilasciata nel 2009. Questo nuovo
 standard si basa sull'utilizzo di diverse
-antenne \ `MIMO <http://www.fastweb.it/internet/cos-e-la-tecnologia-mimo/>`__ (multiple-input,
+antenne MIMO (multiple-input,
 multiple-output) che lavorano sulle frequenze di 2,4 GHz e 5 GHz
 consentendo velocità che possono, in teoria, arrivare anche 600 Mbps. A
 questo è seguito lo standard 802.11ac, che ha portato le velocità di
