@@ -21,7 +21,7 @@ in qualità di “facilitatore” all’accesso a questi servizi è chiamata a
 fornire nuovi servizi digitali, in modalità gratuita per gli utenti, e
 utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
-.. image:: lg-pubblicowififree/media/servizio-wififree.png
+.. image:: servizio-wififree.png
   :scale: 50 %
   :alt: servizio wifi free
 
