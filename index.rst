@@ -76,19 +76,20 @@ criteri di sicurezza da adottare in tale ambito.
    riferimenti-fonti.rst
 
 .. [1] Le disposizioni del presente Codice si applicano a) alle pubbliche
-   amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo
-   2001, n. 165, nel rispetto del riparto di competenza di cui all'articolo 117
-   della Costituzione, ivi comprese le autorita' di sistema portuale, nonché alle
-   autorità amministrative indipendenti di garanzia, vigilanza e regolazione; b) ai
-   gestori di servizi pubblici, ivi comprese le societa' quotate, in relazione ai
-   servizi di pubblico interesse; c) alle società a controllo pubblico, come
-   definite nel decreto legislativo 19 agosto 2016, n. 175, escluse le società
-   quotate di cui all'articolo 2, comma 1, lettera p), del medesimo decreto che non
-   rientrino nella categoria di cui alla lettera b);** 3. **Le disposizioni del
-   presente Codice e le relative Linee guida concernenti il documento informatico,
-   le firme elettroniche e i servizi fiduciari di cui al Capo II, la riproduzione e
-   conservazione dei documenti di cui agli articoli 43 e 44, il domicilio digitale
-   e le comunicazioni elettroniche di cui all'articolo 3-bis e al Capo IV,
-   l'identità digitale di cui agli articoli 3-bis e 64 si applicano anche ai
-   privati, ove non diversamente previsto.
+   amministrazioni di cui all’articolo 1, comma 2, del decreto legislativo 30
+   marzo 2001, n. 165, nel rispetto del riparto di competenza di cui
+   all’articolo 117 della Costituzione, ivi comprese le autorita’ di sistema
+   portuale, nonché alle autorità amministrative indipendenti di garanzia,
+   vigilanza e regolazione; b) ai gestori di servizi pubblici, ivi comprese le
+   societa’ quotate, in relazione ai servizi di pubblico interesse; c) alle
+   società a controllo pubblico, come definite nel decreto legislativo 19 agosto
+   2016, n. 175, escluse le società quotate di cui all’articolo 2, comma 1,
+   lettera p), del medesimo decreto che non rientrino nella categoria di cui
+   alla lettera b);** 3. **Le disposizioni del presente Codice e le relative
+   Linee guida concernenti il documento informatico, le firme elettroniche e i
+   servizi fiduciari di cui al Capo II, la riproduzione e conservazione dei
+   documenti di cui agli articoli 43 e 44, il domicilio digitale e le
+   comunicazioni elettroniche di cui all’articolo 3-bis e al Capo IV, l’identità
+   digitale di cui agli articoli 3-bis e 64 si applicano anche ai privati, ove
+   non diversamente previsto. 
    
