@@ -21,8 +21,9 @@ in qualità di “facilitatore” all'accesso a questi servizi è chiamata a
 fornire nuovi servizi digitali, in modalità gratuita per gli utenti, e
 utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
-.. image:: media/servizio-wififree.png
+.. figure:: media/servizio-wififree.png
    :alt: Servizio WiFi free
+   :name: servizio wifi free
 
 Applicabilità e destinatari del documento
 -----------------------------------------

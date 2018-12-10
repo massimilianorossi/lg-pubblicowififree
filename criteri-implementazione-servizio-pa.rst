@@ -109,11 +109,9 @@ Le credenziali generate all'atto dell'iscrizione al servizio vengono
 riutilizzate in tutte le connessioni successive dell'utente
 finale [17]_.
 
-
-.. image:: media/architettura-rete-pa.png
-  :scale: 50 %
-  :alt: Architettura rete PA
-
+.. figure:: media/architettura-rete-pa.png
+   :alt: Architettura rete PA
+   :name: architettura rete pa
 
 Configurazione della rete interna
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -330,9 +328,9 @@ La figura di seguito riporta un'ipotesi di architettura con l'ambito
 Wi-Fi aggiuntivo realizzato attraverso una nuova VRF [19]_ sugli
 apparati degli operatori.
 
-.. image:: media/definizione-ambito-wifi-spc.png
-  :scale: 50 %
-  :alt: Definizione-Ambito-WiFi-SPC
+.. figure:: media/definizione-ambito-wifi-spc.png
+   :alt: Definizione Ambito WiFi SPC
+   :name: definizione ambito wifi spc
 
 Per quanto riguarda l'implementazione del servizio sulla rete interna o
 sulla rete geografica, l'Amministrazione deve erogare il servizio Wi-Fi,
