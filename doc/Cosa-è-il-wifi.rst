@@ -34,6 +34,9 @@ gli \ `standard
 Wi-Fi <http://www.fastweb.it/internet/guida-agli-standard-wi-fi-per-la-velocita-connessione/>`__
 esistenti sono 9, anche se i più utilizzati sono 4. (QUALI?)
 
+.. table:: Tabella 1: Tappe fondamentali implementazioni ordinate per velocità di
+trasmissione crescente WIFI
+
 +-----------------+-----------------+-----------------+-----------------+
 | Certificazione  | Velocità di     | Frequenza di    | Mezzo           |
 |                 | trasmissione    | lavoro          | trasmissivo     |
@@ -54,9 +57,6 @@ esistenti sono 9, anche se i più utilizzati sono 4. (QUALI?)
 +-----------------+-----------------+-----------------+-----------------+
 | IEEE 802.11ad   | 6750 Mb/s       | 60 GHz          | Onde Radio      |
 +-----------------+-----------------+-----------------+-----------------+
-
-Tabella 1--- Tappe fondamentali implementazioni ordinate per velocità di
-trasmissione crescente WIFI
 
 Come possiamo notare in tabella, l’evoluzione tecnologica avvenuta a
 cavallo degli ultimi 20 anni, si focalizza sulla velocità di
