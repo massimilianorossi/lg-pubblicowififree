@@ -26,7 +26,6 @@ Questo documento descrive ... INSERIRE DESCRIZIONE
    doc/Federabilità-servizi-wifi.rst
    doc/Conclusioni.rst
    doc/Riferimenti-fonti.rst
-   doc/Note.rst
 
 
    
