@@ -148,3 +148,13 @@ L’adozione di tale soluzione da parte della PA, consentirebbe loro di
 eliminare i costi per la gestione di tali sistemi, nonché il carico, ed
 i relativi costi, in termine di gestione dei dati degli utenti, ai fini
 della legislazione sulla sicurezza dei dati personali.
+
+.. note::
+.. [11] http://www.agid.gov.it/notizie/2016/07/26/spid-accordo-mise-mibact-accesso-unico-Wi-Fi-pubblico
+
+.. [12]	http://www.digitromawifi.it/it/faq.html
+
+.. [13]	http://www.openwifimilano.it/
+
+.. [14]	Eduroam (Education Roaming) è il servizio che permette agli utenti in mobilità presso altre organizzazioni di accedere in modo semplice e sicuro alla rete wireless usando le stesse credenziali fornite dalla propria organizzazione.
+
