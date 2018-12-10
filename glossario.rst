@@ -71,7 +71,7 @@ H
       Un host è un computer oppure dispositivo mobile connesso in rete
 
 I
-_
+-
 
 .. glossary::
 
