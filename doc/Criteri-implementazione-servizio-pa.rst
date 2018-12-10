@@ -108,9 +108,11 @@ Le credenziali generate all’atto dell’iscrizione al servizio vengono
 riutilizzate in tutte le connessioni successive dell’utente
 finale [17]_.
 
-|image2|
 
-Figura 3 - Architettura rete PA
+.. image:: Architettura-rete-PA.png
+  :scale: 50 %
+  :alt: Architettura rete PA
+
 
 Configurazione della rete interna
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -385,5 +387,9 @@ alle informazioni di dettaglio presenti all’interno del sistema stesso.
 
 .. note::
 .. [15] http://www.consip.it/bandi-di-gara/gare-e-avvisi/gara-reti-locali-6
+
+.. [16] Il “captive portal» è una pagina web, mostrata agli utenti di una rete di telecomunicazioni, per effettuare la connessione ad Internet.
+
+.. [17] Al primo accesso l’utente si collega ai server (Radius o Network Access Server) che devono verificare l’identità, e associare le credenziali all’utente. La condizione vincolante all’autorizzazione all’accesso è che l’identità dell’utente sia verificabile: di fatti è possibile utilizzare modalità indirette come la registrazione al servizio attraverso la SIM del cellulare o numero di carta di credito (in particolare per gli stranieri) e/o il servizio SPID per gli utenti italiani. Il numero dei dispositivi associabili all’utenza dipende dai vincoli posti dal Service Provider.
 
 
