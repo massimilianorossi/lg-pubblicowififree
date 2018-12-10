@@ -19,8 +19,9 @@ servizio richiesto dagli utenti in particolare nei settori turistici,
 sanitari e della formazione. La Pubblica Amministrazione di conseguenza,
 in qualità di “facilitatore” all’accesso a questi servizi è chiamata a
 fornire nuovi servizi digitali, in modalità gratuita per gli utenti, e
-utilizzando le tecnologie Wi-Fi per la loro fruizione.\ |image1|
+utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
-Figura 1 - Architettura generale rete Wireless
+.. image:: servizio-wififree.
+  :scale: 50 %
+  :alt: servizio wifi free
 
-**Figura 1 – servizio Wi-Fi free**
