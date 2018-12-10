@@ -14,7 +14,6 @@ Questo documento descrive ... INSERIRE DESCRIZIONE
 .. toctree::
    :maxdepth: 2
    
-   Tabella-definizioni-e-acronimi.rst
    Premessa.rst
    Applicabilità-e-destinatari.rst
    Introduzione.rst
@@ -26,6 +25,7 @@ Questo documento descrive ... INSERIRE DESCRIZIONE
    Federabilità-servizi-wifi.rst
    Conclusioni.rst
    Riferimenti-fonti.rst
+   Glossario.rst
 
 
    
