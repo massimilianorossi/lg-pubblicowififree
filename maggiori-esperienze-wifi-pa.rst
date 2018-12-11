@@ -2,11 +2,11 @@ Le Maggiori esperienze della WI-FI pubblica nella PA
 ====================================================
 
 Analizzeremo in questo capitolo alcuni esempi di soluzione per
-l’implementazione del Wi-Fi pubblico nella PA muovendo da esperienze
+l'implementazione del Wi-Fi pubblico nella PA muovendo da esperienze
 realizzate nelle città di Roma e Milano che, come molte altre PA locali
 hanno dato impulso al Wi-Fi pubblico. Per quanto riguarda la PA centrale
-è possibile invece evidenziare l’ esempio virtuoso costituito dal
-protocollo di Intesa siglato da MISE, MIBACT e Agenzia per l’Italia
+è possibile invece evidenziare l' esempio virtuoso costituito dal
+protocollo di Intesa siglato da MISE, MIBACT e Agenzia per l'Italia
 Digitale  [11]_
 
 La soluzione di Roma Capitale
@@ -19,9 +19,9 @@ internet, attraverso una rete di hotspot WiFi.
 
 La registrazione avviene recandosi presso uno dei punti di accesso con
 il proprio dispositivo mobile (notebook, smartphone o tablet) dotato di
-un'interfaccia Wi-Fi, e consiste, connettendosi all’SSID DIGIT-Roma e
-tramite “\ *captive portal*\ ”, nel fornire nome, cognome, e-mail e
-numero di telefono mobile. Nell’ambito della procedura di registrazione
+un'interfaccia Wi-Fi, e consiste, connettendosi all'SSID DIGIT-Roma e
+tramite *"captive portal"*, nel fornire nome, cognome, e-mail e
+numero di telefono mobile. Nell'ambito della procedura di registrazione
 l'utente è richiesto di effettuare una chiamata gratuita al numero
 indicato, per convalidare la registrazione. Una volta chiusa la
 chiamata, il sistema invia una mail con username e password alla casella
@@ -74,7 +74,7 @@ identificati.
 Il Progetto Wifi.Italia.it
 --------------------------
 
-In questo quadro tecnologico, con l’obiettivo di fornire un sistema di
+In questo quadro tecnologico, con l'obiettivo di fornire un sistema di
 accesso semplificato e unico per i cittadini italiani e i turisti,
 nonché favorire razionalizzazioni di spesa e riuso dei sistemi
 tecnologici adottati dalle Amministrazioni Pubbliche è nato il progetto
@@ -88,36 +88,36 @@ tutto il SW in licenza Open Source, in collaborazione con developers.it
 promosso dalla Presidenza del Consiglio.
 
 A seguito del Protocollo di Intesa sottoscritto da AgID, MiSE e MiBACT
-“Per la diffusione di piattaforme digitali al servizio del turista nel
-territorio italiano” che prevede diverse iniziative volte a favorire la
+"Per la diffusione di piattaforme digitali al servizio del turista nel
+territorio italiano" che prevede diverse iniziative volte a favorire la
 digitalizzazione dei servizi in ambito turistico e culturale, il MISE ha
 provveduto, attraverso Infratel Italia SpA, allo sviluppo di una APP per
 dispositivi mobili, con la quale gli utenti possono accedere in maniera
-automatica e semplice a tutte le reti Wi-Fi federate al progetto. L’APP
-multipiattaforma, una volta scaricata e installata, richiede all’utente
+automatica e semplice a tutte le reti Wi-Fi federate al progetto. L'APP
+multipiattaforma, una volta scaricata e installata, richiede all'utente
 la registrazione (da febbraio 2018 è attiva anche la registrazione con
 credenziali SPID) che si conclude con la creazione sul dispositivo di
 credenziali di accesso utilizzate, in maniera completamente trasparente
-all’utente, nella richiesta di autorizzazione alla rete. L’utente, una
+all'utente, nella richiesta di autorizzazione alla rete. L'utente, una
 volta autorizzato, può usufruire del servizio gratuito di connettività
 Internet fornito dalle sedi della PA. La banda dedicata al servizio,
 così come le soglie sul numero massimo di utenti o di allocazione
 temporale per utente, secondo la logica federata, sono quelle definite
 dalla rete che sta fornendo il servizio di accesso ad internet in quel
-momento. La soluzione resa disponibile allo stato consente l’esclusivo
+momento. La soluzione resa disponibile allo stato consente l'esclusivo
 accesso per il tramite di dispositivi mobili (smartphone e tablet).
-Entro l’estate 2018 sarà disponibile anche una soluzione per p.c.
+Entro l'estate 2018 sarà disponibile anche una soluzione per p.c.
 
 L'idea di funzionamento del sistema si basa, pertanto, sulla
 disponibilità per gli utenti, di una APP che riconosce e interagisce con
-un SSID unico “wifi.italia.it”.
+un SSID unico "wifi.italia.it".
 
-Non appena un utente entra nell’area di copertura di un Access Point
-appartenente alla rete integrata, l’APP procede, in maniera del tutto
-trasparente, all’autenticazione e accede alla rete. Una notifica avverte
-l’utente che l’operazione è andata a buon fine. Quindi l’utente non deve
+Non appena un utente entra nell'area di copertura di un Access Point
+appartenente alla rete integrata, l'APP procede, in maniera del tutto
+trasparente, all'autenticazione e accede alla rete. Una notifica avverte
+l'utente che l'operazione è andata a buon fine. Quindi l'utente non deve
 selezionare alcuna rete e non deve passare per alcun Captive Portal,
-infatti l’accesso avviene in automatico.
+infatti l'accesso avviene in automatico.
 
 Le reti Wi-Fi delle pubbliche amministrazioni, per diventare parte del
 sistema, devono quindi configurare i loro Access Point con un nuovo
@@ -126,35 +126,37 @@ impostato con autenticazione 802.1x verso un Authentication Server
 Radius remoto gestito da Infratel Italia.
 
 Secondo questa architettura, la APP e il sistema wifi.italia.it
-gestiscono oltre alla prima (e unica) registrazione dell’utente,
-l’autenticazione dello stesso sulla rete. Una volta che l’utente viene
+gestiscono oltre alla prima (e unica) registrazione dell'utente,
+l'autenticazione dello stesso sulla rete. Una volta che l'utente viene
 autenticato con la APP la navigazione è totalmente gestita dalla rete
-che lo sta “ospitando “in quel momento.
+che lo sta "ospitando "in quel momento.
 
 Conseguentemente il sistema wifi.italia.it raccoglie e gestisce i dati
 di registrazione degli utenti e di quelli relativi alle loro
 autenticazioni sulle reti federate, anonimizzandoli e solo per i fini
-dell’esecuzione del servizio. Mentre i dati di navigazione, con il
-riferimento all’utente codificato e interpretabile solo da
+dell'esecuzione del servizio. Mentre i dati di navigazione, con il
+riferimento all'utente codificato e interpretabile solo da
 wifi.italia.it, ma non dalla rete, sono invece, raccolti e gestiti
 esclusivamente dalle reti federate secondo le modalità proprie di
 ciascuna rete
 
-L’adesione al sistema permetterà alle amministrazioni di dismettere i
+L'adesione al sistema permetterà alle amministrazioni di dismettere i
 sistemi di autenticazione e gestione delle identità degli utenti, allo
-stato attivi, per utilizzare l’accesso all’SSID **“wifi.italia.it”**.
+stato attivi, per utilizzare l'accesso all'SSID *"wifi.italia.it"*.
 
-L’adozione di tale soluzione da parte della PA, consentirebbe loro di
+L'adozione di tale soluzione da parte della PA, consentirebbe loro di
 eliminare i costi per la gestione di tali sistemi, nonché il carico, ed
 i relativi costi, in termine di gestione dei dati degli utenti, ai fini
 della legislazione sulla sicurezza dei dati personali.
 
-.. note::
 .. [11] http://www.agid.gov.it/notizie/2016/07/26/spid-accordo-mise-mibact-accesso-unico-Wi-Fi-pubblico
 
 .. [12]	http://www.digitromawifi.it/it/faq.html
 
 .. [13]	http://www.openwifimilano.it/
 
-.. [14]	Eduroam (Education Roaming) è il servizio che permette agli utenti in mobilità presso altre organizzazioni di accedere in modo semplice e sicuro alla rete wireless usando le stesse credenziali fornite dalla propria organizzazione.
+.. [14]	Eduroam (Education Roaming) è il servizio che permette agli utenti in
+   mobilità presso altre organizzazioni di accedere in modo semplice e sicuro
+   alla rete wireless usando le stesse credenziali fornite dalla propria
+   organizzazione.
 

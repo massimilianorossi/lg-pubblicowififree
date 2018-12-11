@@ -16,7 +16,7 @@ diverse, ad esempio:
    diversi Service Provider, che propaghino reciprocamente le
    credenziali e gli SSID delle infrastrutture federate;
 
--  l’accesso utente con la stessa password su due reti identificate da
+-  l'accesso utente con la stessa password su due reti identificate da
    diversi SSID; in tale scenario le Amministrazioni dovranno
    sincronizzare i database degli utenti.
 
