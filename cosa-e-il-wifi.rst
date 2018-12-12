@@ -30,9 +30,7 @@ Gli standard del Wi-Fi
 In questo paragrafo mostreremo le tappe fondamentali delle
 certificazioni dello IEEE che stabiliscono gli standard tecnologici sui
 quali i produttori realizzano i loro dispositivi Wi-Fi. Ad oggi
-gli `standard
-Wi-Fi <http://www.fastweb.it/internet/guida-agli-standard-wi-fi-per-la-velocita-connessione/>`__
-esistenti sono 9, anche se i più utilizzati sono 4. (QUALI?)
+gli `standard Wi-Fi esistenti sono 9, anche se i più utilizzati sono 4.
 
 .. table:: Tappe fondamentali implementazioni ordinate per velocità di trasmissione crescente WiFi
    :name: implementazioni-wifi-per-velocita
@@ -72,8 +70,7 @@ trasmissione di dati fino a 54Mbps (sebbene mediamente si attesti
 attorno ai 22-24 Mbps). Un ulteriore avanzamento delle prestazioni si è
 avuta con la certificazione 802.11n, rilasciata nel 2009. Questo nuovo
 standard si basa sull'utilizzo di diverse
-antenne `MIMO <http://www.fastweb.it/internet/cos-e-la-tecnologia-mimo/>`__ (multiple-input,
-multiple-output) che lavorano sulle frequenze di 2,4 GHz e 5 GHz
+antenne MIMO (multiple-input, multiple-output) che lavorano sulle frequenze di 2,4 GHz e 5 GHz
 consentendo velocità che possono, in teoria, arrivare anche 600 Mbps. A
 questo è seguito lo standard 802.11ac, che ha portato le velocità di
 connessione a 1,3 Gbps (il doppio rispetto allo standard n, oltre 20
@@ -84,13 +81,9 @@ Alliance ha studiato e definito altri tre standard che, sfruttando bande
 di comunicazioni differenti, ampliano lo spettro delle possibili
 applicazioni e utilizzi dello standard senza fili. L'IEEE
 802.11ah sfrutta la banda da 1 gigahertz per connessioni più stabili e
-meno soggette al rumore; `l'IEEE
-802.11af <http://www.fastweb.it/internet/watch-il-progetto-per-integrare-wi-fi-e-uhf-televisivo/>`__,
-detto anche super Wi-Fi, lavora sulla banda di comunicazione riservata
+meno soggette al rumore; l'IEEE 802.11af, detto anche super Wi-Fi, lavora sulla banda di comunicazione riservata
 alle comunicazioni televisive per assicurare connessioni stabili e a
-grande velocità; l'IEEE 802.11ad (detto
-anche `WiGig <http://www.fastweb.it/web-e-digital/intel-punta-a-eliminare-i-cavi-dei-pc/>`__),
-infine, lavora sulla banda di frequenza dei 60 GHz e, pur coprendo
+grande velocità; l'IEEE 802.11ad (detto anche WiGig), infine, lavora sulla banda di frequenza dei 60 GHz e, pur coprendo
 distanze minori, può raggiungere la velocità di connessione di 7 gigabit
 ed è utilizzabile per le applicazioni 'smart home' che richiedono una
 banda sempre più ampia e stabile.
@@ -108,8 +101,7 @@ rete senza fili e quella fissa. Il segnale wireless di un singolo access
 point solitamente copre un'area tra i 50 ed i 100 metri in base alla
 configurazione architettonica dell'area coperta, ma può essere esteso in
 diversi modi. Si
-può `amplificare <http://www.fastweb.it/internet/come-amplificare-il-segnale-wi-fi-del-router/>`__,
-ad esempio, attraverso il collegamento di differenti AP tramite cavo,
+può amplificare, ad esempio, attraverso il collegamento di differenti AP tramite cavo,
 oppure creando un "ponte" wireless con ripetitori di segnali. Ogni AP
 trasmette, ogni 100 ms, un pacchetto dati,
 chiamato *beacon* [2]_ contenente lo SSID (Service Set Identifier)
