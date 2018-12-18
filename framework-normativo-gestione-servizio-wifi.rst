@@ -31,8 +31,7 @@ caso di uso non conforme della rete da parte dell' utenza.
 
 Con riguardo all'ordinamento italiano, la normativa in materia
 di controllo, accesso e gestione del Wi-Fi libero va fatta risalire
-all'art. 7, `D.L. 27 luglio 2005, n.
-144 <http://www.altalex.com/documents/news/2007/12/06/misure-urgenti-per-il-contrasto-del-terrorismo-internazionale>`__
+all'art. 7, `D.L. 27 luglio 2005, n.144 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-07-27;144!vig=>`__
 (c.d. decreto Pisanu) convertito in L. 31 luglio 2005, n. 155, recante
 "misure urgenti per il contrasto del terrorismo internazionale".
 
