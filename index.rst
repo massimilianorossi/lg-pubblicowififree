@@ -30,7 +30,7 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
 .. admonition:: consultation
    
-   La consultazione pubblica relativa al presente documento è attiva dal xx mese al yy mese 2019. Questo documento raccoglie il testo      delle Linee guida Linee guida per l’erogazione del servizio pubblico wi-fi free, disponibile per la consultazione pubblica.
+   La consultazione pubblica relativa al presente documento è attiva dal **xx mese** al **yy mese 2019**. Questo documento raccoglie il testo delle Linee guida Linee guida per l’erogazione del servizio pubblico wi-fi free, disponibile per la consultazione pubblica.
 
 
 
