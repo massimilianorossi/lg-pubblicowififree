@@ -39,6 +39,7 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    :numbered:
    
    introduzione.rst
+   scenario.rst
    cosa-e-il-wifi.rst
    framework-normativo-gestione-servizio-wifi.rst
    maggiori-esperienze-wifi-pa.rst
