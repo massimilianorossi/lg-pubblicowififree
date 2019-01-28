@@ -1,5 +1,8 @@
+Scenario
+=========
+
 Applicabilità e destinatari del documento
------------------------------------------
+-------------------------------------------
 
 Come previsto dall'art.8-bis del d.lgs. 82 del 2005 e s.m.i. - Codice
 dell'Amministrazione Digitale -
