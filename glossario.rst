@@ -1,10 +1,6 @@
 Glossario
 =========
 
-
-Glossario
-=========
-
 .. glossary::
 
    AP
