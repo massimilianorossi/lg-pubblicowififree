@@ -46,18 +46,18 @@ associazione al numero di documento di identità dello *user* oppure la
 validazione degli utenti via SMS o tramite carta di credito.
 Successivamente con il c.d. decreto Milleproroghe (`D.L. 29 dicembre
 2010, n.
-225 <http://www.altalex.com/documents/leggi/2012/12/11/il-testo-del-decreto-milleproroghe-convertito-in-legge>`__,
+225 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-12-29;225!vig=>`__,
 art. 2, comma 19, convertito con `L. 26 febbraio 2011, n.
-10 <http://www.altalex.com/documents/news/2014/03/10/e-legge-mediazione-in-vigore-dal-21-marzo-rinvio-per-condominio-e-sinistri>`__)
+10 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-02-26;10!vig=>`__)
 sono stati abrogati il quarto e quinto comma dell'art. 7 del decreto
 Pisanu, che prevedevano gli obblighi di preventiva identificazione degli
 utenti.
 
 Il suddetto orientamento è stato definitivamente confermato con
 l'adozione del c.d. decreto del "Fare" (`D.L. 21 giugno 2013, n.
-69 <http://www.altalex.com/documents/news/2014/02/26/decreto-del-fare-giustizia-equitalia-e-burocrazia-torna-la-mediazione-obbligatoria>`__,
+69 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69!vig=>`__,
 art. 10, convertito in `L. 9 agosto 2013, n.
-98 <http://www.altalex.com/documents/leggi/2013/10/01/decreto-del-fare-la-legge-di-conversione>`__),
+98 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98!vig=>`__),
 il quale, sintetizzando quanto già definito dalle precedenti modifiche
 abrogative e colmando in parte il vuoto normativo che avevano lasciato,
 ha liberalizzato l'accesso alla rete internet tramite tecnologia Wi-Fi,
