@@ -60,9 +60,7 @@ dell'utente, da parte di almeno uno dei provider infrastrutturali, al
 fine di poter rispondere ai dettami normativi in materia di
 tracciabilità dell'utente.
 
-Al fine di implementare ovvero rinnovare le dotazioni relative alla
-Wi-Fi, si segnala alle Amministrazioni la gara di recente aggiudicazione
-"Reti Locali 6" reperibile sul sito della CONSIP.
+
 
 
 
