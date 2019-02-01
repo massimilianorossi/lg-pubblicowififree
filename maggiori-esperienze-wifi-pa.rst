@@ -106,7 +106,7 @@ temporale per utente, secondo la logica federata, sono quelle definite
 dalla rete che sta fornendo il servizio di accesso ad internet in quel
 momento. La soluzione resa disponibile allo stato consente l'esclusivo
 accesso per il tramite di dispositivi mobili (smartphone e tablet).
-Entro l'estate 2018 sarà disponibile anche una soluzione per p.c.
+In futuro sarà disponibile anche una soluzione per p.c.
 
 L'idea di funzionamento del sistema si basa, pertanto, sulla
 disponibilità per gli utenti, di una APP che riconosce e interagisce con
