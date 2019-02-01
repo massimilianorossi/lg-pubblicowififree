@@ -64,19 +64,7 @@ Al fine di implementare ovvero rinnovare le dotazioni relative alla
 Wi-Fi, si segnala alle Amministrazioni la gara di recente aggiudicazione
 "Reti Locali 6" reperibile sul sito della CONSIP.
 
-Il capitolato [15]_, nella sezione dedicata alle tecnologie Wi-Fi,
-include sommariamente i seguenti componenti, finalizzati alla
-realizzazione / aggiornamento/gestione di reti Wi-FI:
 
--  Access point per ambienti interni ed esterni conformi all'ultima
-      implementazione 802.11ac Wave2 e che realizzino autenticazione in
-      modalità conforme alla 802.1x;
-
--  Dispositivi per la gestione degli apparti Wi-Fi;
-
--  Software per la gestione delle piattaforme wireless;
-
--  Antenne per ambienti esterni.
 
 Identificazione
 ~~~~~~~~~~~~~~~~
