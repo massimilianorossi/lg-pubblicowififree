@@ -8,7 +8,7 @@ Introduzione per la consultazione pubblica
 - **Durata della consultazione:** dal xx mese 2019 al yy mese 2019
 
 
-- **Settore:** ICT, Telecominicazioni
+- **Settore:** ICT, Telecomunicazioni
 
 
 **Esiti della consultazione**
