@@ -320,10 +320,6 @@ Il Capitolato di gara Consip, per la Connettività, ha definito Classi di
 Servizio e Ambiti atti all' identificazione e separazione dei traffici
 pregiati e diretti o verso Internet, Intranet e Infranet.
 
-Al pari delle suddette classificazioni, il servizio Wi-Fi in via di
-definizione, in ambito SPC farà uso di un nuovo ambito, per garantire
-separazione logica e fisica dagli altri traffici.
-
 La figura di seguito riporta un'ipotesi di architettura con l'ambito
 Wi-Fi aggiuntivo realizzato attraverso una nuova VRF [19]_ sugli
 apparati degli operatori.
